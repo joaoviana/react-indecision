@@ -5,6 +5,7 @@
   "author": "Joao Viana",
   "license": "MIT",
   "scripts": {
+    "start": "node server/server.js",
     "serve": "live-server public/",
     "build": "webpack --mode production",
     "dev-server": "webpack-dev-server --mode development"
