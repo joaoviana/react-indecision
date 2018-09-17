@@ -3,6 +3,7 @@
     background: $purple;
     border: none;
     border-bottom: .6rem solid darken($purple, 10%);
+    border-radius: 35px;
     color: white;
     font-weight: bold;
     font-size: $l-size;
@@ -26,6 +27,7 @@
     background: $purple;
     border: none;
     border-bottom: .3rem solid darken($purple,10%);
+    border-radius: 25px;
     color: white;
     font-weight: 500;
     padding: $s-size;
