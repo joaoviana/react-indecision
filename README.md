@@ -4,6 +4,8 @@
 
 A simple To-do List app made with ReactJS. Let the computer randomly choose a task that was given by you, the user. 
 
+[Live Demo](https://struggling-student-indecision.herokuapp.com/)
+
 ## Setting up 
 
 ```
